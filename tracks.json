@@ -12,9 +12,9 @@
             "artist": "GoGo Penguin",
             "album": "unknown",
             "name": "To Drown In You",
-            "img": "data/img/gogo.jpg",
-            "urlmp3": "data/music/second.mp3",
-            "urlogg": "data/music/second.ogg"
+            "img": "https://github.com/grozamedvedey/data_/raw/master/img/gogo.jpg",
+            "urlmp3": "https://dl.dropboxusercontent.com/s/0xvol8qey6kr0au/second.mp3",
+            "urlogg": "https://dl.dropboxusercontent.com/s/nvhc5yy7rhrohcw/second.ogg"
         }
     ]
 }
